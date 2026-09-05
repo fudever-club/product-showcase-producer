@@ -1,7 +1,8 @@
 # 🎬 Product Showcase Producer (v2.0 Craft & Taste Edition)
 
 > **Master Multi-Agent Producer for Broadcast-Grade Product Showcases, SaaS Launch Promos, and Technology Demos**  
-> Developed for **FU-DEVER Club** (Software Engineering Club at FPT University Da Nang).
+> Developed by **Đặng Quang Nhật** • Sản phẩm thuộc quyền sở hữu bởi **FU-DEVER** (Câu lạc bộ Kỹ thuật Phần mềm - ĐH FPT Đà Nẵng).
+
 
 ---
 
@@ -63,6 +64,8 @@ Sau đó, kích hoạt bằng ngôn ngữ tự nhiên:
 
 ---
 
-## 🛡️ Bản Quyền & Giấy Phép
-Phát triển bởi **FU-DEVER Club**  
-Bảo mật nội bộ (Private Repository)
+## 👨‍💻 Tác Giả & Bản Quyền Sở Hữu
+- **Phát triển bởi (Developed by):** **Đặng Quang Nhật**
+- **Bản quyền sở hữu (Ownership):** Sản phẩm thuộc quyền sở hữu bởi **FU-DEVER** (Câu lạc bộ Kỹ thuật Phần mềm, Trường Đại học FPT Đà Nẵng).
+- **Phạm vi lưu trữ:** Bảo mật nội bộ (Private Repository).
+
