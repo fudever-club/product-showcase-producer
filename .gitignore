@@ -1,0 +1,16 @@
+# Dependencies & caches
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary renders and tests
+*.wav
+*.mp4
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
